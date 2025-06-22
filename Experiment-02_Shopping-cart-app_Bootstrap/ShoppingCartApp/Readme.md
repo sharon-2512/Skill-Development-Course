@@ -47,7 +47,7 @@ ShoppingCartApp/
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/sharon-2512/Skill-Development-Lab/Experiment-02_Shopping-cart-app_Bootstrap/ShoppingCartApp.git
+   git clone https://github.com/sharon-2512/Skill-Development-Course/Experiment-02_Shopping-cart-app_Bootstrap/ShoppingCartApp.git
    ```
 
 2. **Navigate to the HTML directory**:
