@@ -1,6 +1,6 @@
 ---
 
-# Skill Development Lab – Full Stack Experiments
+# Skill Development Course – Full Stack Experiments
 
 ---
 Welcome to the **Skill Development Lab** repository!  
