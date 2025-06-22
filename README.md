@@ -54,9 +54,9 @@ Each folder contains code and files for a specific experiment, named accordingly
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/swayamprakashm/Skill-Development-Lab.git
+git clone https://github.com/sharon-2512/Skill-Development-Course.git
 
-cd Skill-Development-Lab 
+cd Skill-Development-Course
 ````
 
 ### 2. Open Specific Experiment
