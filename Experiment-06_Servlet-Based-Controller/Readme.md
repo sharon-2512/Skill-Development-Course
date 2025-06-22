@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/61098c72-d414-4792-b5c3-08a9add69a1f)---
+---
 
 ## **PROGRAM 6 – Servlet-Based Controller for Shopping Cart**
 
